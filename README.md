@@ -1,8 +1,8 @@
 
 
-# **Support Vector Machine - Project**
+# **Scoring Methods - Project**
 
-Work done by Loïc PALMA and Mickaël WALTER for the Winter 2019 class of Scoring Methods at ESA Master's degree. The instructor was [Chritophe Rault](http://chrault3.free.fr/).
+Work done by Loïc PALMA and Mickaël WALTER for the Winter 2019 class of Scoring Methods at ESA Master's degree. The instructor was [Christophe Rault](http://chrault3.free.fr/).
 
 The datasets used in this project is **CONFIDENTIAL** hence we do not provide them.
 
